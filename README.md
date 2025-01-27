@@ -19,4 +19,4 @@ The program works by taking an MD5 hash input from the user, and then attempting
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/brutus.git
+   git clone https://github.com/anthocote19/brutus.git
